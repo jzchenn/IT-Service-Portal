@@ -1,0 +1,38 @@
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\3.3 3.8 Internal Assessment.exe
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\3.3 3.8 Internal Assessment.deps.json
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\3.3 3.8 Internal Assessment.runtimeconfig.json
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\3.3 3.8 Internal Assessment.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\3.3 3.8 Internal Assessment.pdb
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.csproj.AssemblyReference.cache
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment_MarkupCompile.cache
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment_MarkupCompile.lref
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.g.resources
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.AssemblyInfoInputs.cache
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.AssemblyInfo.cs
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 .CC167DBE.Up2Date
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\refint\3.3 3.8 Internal Assessment.dll
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.pdb
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\3.3 3.8 Internal Assessment.genruntimeconfig.cache
+C:\Users\Jacky\Downloads\csharp-JackyChen24-main\csharp-JackyChen24-main\3.3 3.8 Coding Internal\3.3 3.8 Internal Assessment\obj\Debug\net8.0-windows\ref\3.3 3.8 Internal Assessment.dll
